@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "Gavin's Server",
+      "address": "https://dash.gavind.co.uk"
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
